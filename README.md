@@ -32,7 +32,6 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=psihoshlem&show_icons=true&theme=dark&locale=en&layout=compact" alt="psihoshlem" /></p>
 
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=psihoshlem&theme=dark" alt="psihoshlem" /></p>
 
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=psihoshlem&theme=dark"></p>
 
